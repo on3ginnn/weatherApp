@@ -1,4 +1,4 @@
-
+![weatherApp](https://github.com/on3ginnn/weatherApp/assets/124593750/d8d0ad36-e254-4f88-8c10-aa8df63a1141)
 
 # Weather App
 
